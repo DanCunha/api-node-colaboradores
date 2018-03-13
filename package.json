@@ -1,0 +1,22 @@
+{
+  "name": "api-colaboradores",
+  "version": "1.0.0",
+  "description": "Teste api Rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colaboradores",
+    "cadastro"
+  ],
+  "author": "Daniel Cunha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "express-validator": "^5.0.3",
+    "mysql": "^2.15.0"
+  }
+}
